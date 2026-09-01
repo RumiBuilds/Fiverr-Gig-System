@@ -36,11 +36,66 @@ The core of this project is an **N-ary Tree**.
 
 Each gig owner acts as the root node, while sellers/employees can be connected as children or siblings, creating a hierarchical freelancing team structure.
 
-```text
-                    Gig Owner
-                       |
-          ---------------------------
-          |            |            |
-       Seller 1     Seller 2     Seller 3
-          |
-      Employee
+
+
+
+This structure allows the system to represent relationships between gig owners and their team members.
+
+## System Modules
+### Seller Management
+
+Sellers can be added to the system with information including:
+
+- Name
+- Country
+- Rating
+- Number of employees
+- Orders completed
+
+### Team Management
+
+A seller can work under the main gig owner or another eligible team member.
+The system maintains these relationships using an N-ary tree.
+
+### Order Management
+
+Buyers can select a seller and place an order. The system updates the selected seller's completed order count
+and displays a confirmation message.
+
+### Seller Display
+
+The system displays:
+
+- Gig owner
+- Employees
+- Team hierarchy
+- Country
+- Rating
+- Employee count
+- Completed orders
+- 
+### Seller Deletion
+
+Authorized users can remove sellers from the system.
+
+### Authentication
+
+The project includes a basic username/password authentication mechanism for protected operations.
+
+### Main Menu
+`1. Seller
+2. Buyer
+3. Quit`
+
+### Seller Menu
+`1. Insertion
+2. Deletion
+3. Display
+4. Main Menu
+5. Exit`
+
+### Buyer Menu
+`1. Placing Order
+2. Displaying Sellers
+3. Main Menu
+4. Exit`
