@@ -104,3 +104,13 @@ This project demonstrates practical use of:
 - Menu-driven Programming
 - Search Operations
 - Data Management
+
+### Setup & Installations
+- Using Visual Studio
+- Clone the repository.
+`git clone https://github.com/YOUR-USERNAME/Fiverr-Gig-Management-System.git`
+- Open the project in Visual Studio.
+- Open:
+`src/FiverrGigSystem.cpp`
+- Build the project.
+- Run the application.
