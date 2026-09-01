@@ -114,3 +114,7 @@ This project demonstrates practical use of:
 `src/FiverrGigSystem.cpp`
 - Build the project.
 - Run the application.
+
+### Project Purpose
+
+This project was developed to demonstrate practical implementation of data structures and object-oriented programming concepts through a real-world-inspired freelance marketplace management system.
