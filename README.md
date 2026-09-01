@@ -108,7 +108,7 @@ This project demonstrates practical use of:
 ### Setup & Installations
 - Using Visual Studio
 - Clone the repository.
-`git clone https://github.com/YOUR-USERNAME/Fiverr-Gig-Management-System.git`
+`git clone https://github.com/RumiBuilds/Fiverr-Gig-Management-System.git`
 - Open the project in Visual Studio.
 - Open:
 `src/FiverrGigSystem.cpp`
