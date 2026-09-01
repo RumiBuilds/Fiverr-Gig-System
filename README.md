@@ -78,28 +78,10 @@ Authorized users can remove sellers from the system.
 The project includes a basic username/password authentication mechanism for protected operations.
 
 ### Main Menu
-`-  Seller
-
--  Buyer
-
--  Quit`
+`Seller, Buyer, Quit`
 
 ### Seller Menu
-`- Insertion
-
-- Deletion
-
--  Display
-
-- Main Menu
-
-- Exit`
+`Insertion, Deletion, Display, Main Menu, Exit`
 
 ### Buyer Menu
-`- Placing Order
-
-- Displaying Sellers
-
-- Main Menu
-
-- Exit`
+`Placing Order, Displaying Sellers, Main Menu, Exit`
