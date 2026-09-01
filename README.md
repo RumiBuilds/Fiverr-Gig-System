@@ -85,3 +85,22 @@ The project includes a basic username/password authentication mechanism for prot
 
 ### Buyer Menu
 `Placing Order, Displaying Sellers, Main Menu, Exit`
+
+## Concepts Demonstrated
+
+This project demonstrates practical use of:
+
+- N-ary Trees
+- Tree Traversal
+- Nodes and Pointers
+- Dynamic Memory Allocation
+- Structures
+- Classes and Objects
+- Functions
+- Conditional Statements
+- Loops
+- File Handling
+- User Authentication
+- Menu-driven Programming
+- Search Operations
+- Data Management
