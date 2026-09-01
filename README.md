@@ -118,3 +118,11 @@ This project demonstrates practical use of:
 ### Project Purpose
 
 This project was developed to demonstrate practical implementation of data structures and object-oriented programming concepts through a real-world-inspired freelance marketplace management system.
+
+## Developer
+
+### Rimsha Tariq
+
+Computer Science Graduate
+
+⭐ If you like this project, feel free to give it a star!
