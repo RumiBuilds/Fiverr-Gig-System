@@ -33,12 +33,7 @@ The system simulates a freelance marketplace where gig owners can manage sellers
 ## Data Structure
 
 The core of this project is an **N-ary Tree**.
-
 Each gig owner acts as the root node, while sellers/employees can be connected as children or siblings, creating a hierarchical freelancing team structure.
-
-
-
-
 This structure allows the system to represent relationships between gig owners and their team members.
 
 ## System Modules
@@ -73,7 +68,7 @@ The system displays:
 - Rating
 - Employee count
 - Completed orders
-- 
+
 ### Seller Deletion
 
 Authorized users can remove sellers from the system.
@@ -83,19 +78,28 @@ Authorized users can remove sellers from the system.
 The project includes a basic username/password authentication mechanism for protected operations.
 
 ### Main Menu
-`1. Seller
-2. Buyer
-3. Quit`
+`-  Seller
+
+-  Buyer
+
+-  Quit`
 
 ### Seller Menu
-`1. Insertion
-2. Deletion
-3. Display
-4. Main Menu
-5. Exit`
+`- Insertion
+
+- Deletion
+
+-  Display
+
+- Main Menu
+
+- Exit`
 
 ### Buyer Menu
-`1. Placing Order
-2. Displaying Sellers
-3. Main Menu
-4. Exit`
+`- Placing Order
+
+- Displaying Sellers
+
+- Main Menu
+
+- Exit`
